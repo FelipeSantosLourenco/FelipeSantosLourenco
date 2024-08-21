@@ -7,11 +7,9 @@
 
 ## 📕 What am I currently learning?
 
-* C
 * Java
-* React
-* Node
-* PostgreSQL
+* Spring
+* SQL - Oracle
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fezinnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
